@@ -1,0 +1,5 @@
+Responsavel por testar a aplicacao buscando erros, bugs, defeitos de logica  e implementacao, testar o software a partir do ponto de vista do usuario, procurando
+problemas de usabilidade, verificando se satizfaz seus requisitos.
+
+A partir dos testes informar os erros ao responsavel pela area afetada e acompanhar as modificacoes testando novamente ate a finalizacao do progeto e ate
+todos os problemas serem resolvidos.
