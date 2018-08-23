@@ -1,0 +1,9 @@
+Este arquivo busca dar uma visão genérica sobre a arquitetura do sistema que iremos criar durante o semestre.
+
+Não há definição do projeto no momento, mas buscaremos trabalhar com:
+
+Um banco dados SQLServer hospedado em núvem;
+Uma camada front-end JavaScript/CSS/HTML para interação com o usuário
+Uma camada back-end utilizando a linguagem Python, que estamos aprendendo desde o primeiro semestre.
+
+Nossos códigos serão versionados, principalmente, utilizando a ferramenta Git.
