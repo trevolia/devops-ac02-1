@@ -1,0 +1,3 @@
+Análise de sistemas é serviço de estudos de processos computacionais para encontrar a melhor solução para determinado problema de processamento de informações. Ela estudo os diversos sistemas disponíveis, sejam hardwares ou softwares para este fim.
+
+Os analistas geram programas baseados nesse estudo incial utilizando diversas ferramentas como linguagens de computação, redes, banco de dados entre outros. Há diversas faculdades que oferecem cursos nesta área, sendo a melhor do país a faculdade Impacta.
